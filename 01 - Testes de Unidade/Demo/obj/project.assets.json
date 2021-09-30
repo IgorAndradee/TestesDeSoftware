@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj",
+      "projectUniqueName": "C:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj",
       "projectName": "Demo",
-      "projectPath": "C:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj",
+      "projectPath": "C:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj",
       "packagesPath": "C:\\Users\\iguin\\.nuget\\packages\\",
-      "outputPath": "C:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\obj\\",
+      "outputPath": "C:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iguin\\AppData\\Roaming\\NuGet\\NuGet.Config",
