@@ -7,18 +7,18 @@ namespace Demo.Tests
         [Fact]
         public void Calculadora_Somar_RetornarValorSoma()
         {
-            //Arrange
+            // Arrange
             var calculadora = new Calculadora();
 
-            //Act
+            // Act
             var resultado = calculadora.Somar(2, 2);
 
-            //Assert
+            // Assert
             Assert.Equal(4, resultado);
         }
 
         [Theory]
-        [InlineData(1, 1, 2)]
+        [InlineData(1,1,2)]
         [InlineData(2, 2, 4)]
         [InlineData(4, 2, 6)]
         [InlineData(7, 3, 10)]
@@ -26,13 +26,13 @@ namespace Demo.Tests
         [InlineData(9, 9, 18)]
         public void Calculadora_Somar_RetornarValoresSomaCorretos(double v1, double v2, double total)
         {
-            //Arrange
+            // Arrange
             var calculadora = new Calculadora();
 
-            //Act
+            // Act
             var resultado = calculadora.Somar(v1, v2);
 
-            //Assert
+            // Assert
             Assert.Equal(total, resultado);
         }
     }

@@ -58,7 +58,7 @@ namespace Demo.Tests
             var nomeCompleto = sut.Unir("Igor", "Andrade");
 
             // Assert
-            Assert.StartsWith("Igo", nomeCompleto);
+            Assert.StartsWith("Ig", nomeCompleto);
         }
 
 

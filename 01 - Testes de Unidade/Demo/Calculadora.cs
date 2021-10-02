@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Demo
+﻿namespace Demo
 {
     public class Calculadora
     {
@@ -11,7 +7,7 @@ namespace Demo
             return v1 + v2;
         }
 
-        public double Dividir(double v1, double v2)
+        public int Dividir(int v1, int v2)
         {
             return v1 / v2;
         }
