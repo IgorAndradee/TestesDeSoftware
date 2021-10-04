@@ -33,8 +33,8 @@ namespace Features.Tests
 
             // Assert
             Assert.True(cliente.EhValido());
-            clienteRepo.Verify(r => r.Adicionar(cliente),Times.Once);
-            mediatr.Verify(m=>m.Publish(It.IsAny<INotification>(),CancellationToken.None),Times.Once);
+            clienteRepo.Verify(r => r.Adicionar(cliente), Times.Once);
+            mediatr.Verify(m => m.Publish(It.IsAny<INotification>(), CancellationToken.None), Times.Once);
         }
 
         [Fact(DisplayName = "Adicionar Cliente com Falha")]
@@ -76,7 +76,7 @@ namespace Features.Tests
             // Assert 
             clienteRepo.Verify(r => r.ObterTodos(), Times.Once);
             Assert.True(clientes.Any());
-            Assert.False(clientes.Count(c=>!c.Ativo) > 0);
+            Assert.False(clientes.Count(c => !c.Ativo) > 0);
         }
     }
 }

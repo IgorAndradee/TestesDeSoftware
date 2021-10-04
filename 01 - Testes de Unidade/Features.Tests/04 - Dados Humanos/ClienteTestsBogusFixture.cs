@@ -9,8 +9,7 @@ using Xunit;
 namespace Features.Tests
 {
     [CollectionDefinition(nameof(ClienteBogusCollection))]
-    public class ClienteBogusCollection : ICollectionFixture<ClienteTestsBogusFixture>
-    {}
+    public class ClienteBogusCollection : ICollectionFixture<ClienteTestsBogusFixture> { }
 
     public class ClienteTestsBogusFixture : IDisposable
     {
@@ -39,15 +38,15 @@ namespace Features.Tests
 
             var clientes = new Faker<Cliente>("pt_BR")
                 .CustomInstantiator(f => new Cliente(
-                    Guid.NewGuid(), 
+                    Guid.NewGuid(),
                     f.Name.FirstName(genero),
                     f.Name.LastName(genero),
-                    f.Date.Past(80,DateTime.Now.AddYears(-18)),
+                    f.Date.Past(80, DateTime.Now.AddYears(-18)),
                     "",
                     ativo,
                     DateTime.Now))
-                .RuleFor(c=>c.Email, (f,c) => 
-                    f.Internet.Email(c.Nome.ToLower(), c.Sobrenome.ToLower()));
+                .RuleFor(c => c.Email, (f, c) =>
+                      f.Internet.Email(c.Nome.ToLower(), c.Sobrenome.ToLower()));
 
             return clientes.Generate(quantidade);
         }
@@ -69,8 +68,6 @@ namespace Features.Tests
             return cliente;
         }
 
-        public void Dispose()
-        {
-        }
+        public void Dispose() { }
     }
 }

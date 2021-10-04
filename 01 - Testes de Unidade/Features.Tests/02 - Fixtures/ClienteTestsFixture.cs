@@ -37,8 +37,6 @@ namespace Features.Tests
             return cliente;
         }
 
-        public void Dispose()
-        {
-        }
+        public void Dispose() { }
     }
 }
