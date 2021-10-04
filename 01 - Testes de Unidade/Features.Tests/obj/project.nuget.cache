@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "U1NQSLWTeAAbTdcqUVb9m4G1l/nlIvhA2ErmcZ/jubEQeN0Xfuu9UPHX18oxY/Q5ILS2rYEFbFqS4WZ7JkYRRQ==",
+  "dgSpecHash": "0LWowFEf35ccG/7QuN7Mq6qVFCoNnj39ypebn9vTkEBk1cYrYsUrWPXb4e5TQQgqno228JjLA2vOLrUETCRPMg==",
   "success": true,
   "projectFilePath": "C:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj",
   "expectedPackageFiles": [
@@ -24,7 +24,7 @@
     "C:\\Users\\iguin\\.nuget\\packages\\microsoft.testplatform.testhost\\16.0.1\\microsoft.testplatform.testhost.16.0.1.nupkg.sha512",
     "C:\\Users\\iguin\\.nuget\\packages\\microsoft.win32.primitives\\4.0.1\\microsoft.win32.primitives.4.0.1.nupkg.sha512",
     "C:\\Users\\iguin\\.nuget\\packages\\microsoft.win32.registry\\4.0.0\\microsoft.win32.registry.4.0.0.nupkg.sha512",
-    "C:\\Users\\iguin\\.nuget\\packages\\moq\\4.13.0\\moq.4.13.0.nupkg.sha512",
+    "C:\\Users\\iguin\\.nuget\\packages\\moq\\4.16.1\\moq.4.16.1.nupkg.sha512",
     "C:\\Users\\iguin\\.nuget\\packages\\moq.automock\\1.2.0.120\\moq.automock.1.2.0.120.nupkg.sha512",
     "C:\\Users\\iguin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\iguin\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
@@ -80,7 +80,7 @@
     "C:\\Users\\iguin\\.nuget\\packages\\system.text.regularexpressions\\4.3.0\\system.text.regularexpressions.4.3.0.nupkg.sha512",
     "C:\\Users\\iguin\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\iguin\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
-    "C:\\Users\\iguin\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.1\\system.threading.tasks.extensions.4.5.1.nupkg.sha512",
+    "C:\\Users\\iguin\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\iguin\\.nuget\\packages\\system.threading.thread\\4.0.0\\system.threading.thread.4.0.0.nupkg.sha512",
     "C:\\Users\\iguin\\.nuget\\packages\\system.threading.threadpool\\4.0.10\\system.threading.threadpool.4.0.10.nupkg.sha512",
     "C:\\Users\\iguin\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
