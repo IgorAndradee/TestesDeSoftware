@@ -7,3 +7,4 @@ C:\DEV\DesenvolverdorIO\Arquitetura\Testes de Software\Projeto\TestesDeSoftware\
 C:\DEV\DesenvolverdorIO\Arquitetura\Testes de Software\Projeto\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.csproj.CoreCompileInputs.cache
 C:\DEV\DesenvolverdorIO\Arquitetura\Testes de Software\Projeto\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.dll
 C:\DEV\DesenvolverdorIO\Arquitetura\Testes de Software\Projeto\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.pdb
+C:\DEV\DesenvolverdorIO\Arquitetura\Testes de Software\Projeto\TestesDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.csproj.AssemblyReference.cache
