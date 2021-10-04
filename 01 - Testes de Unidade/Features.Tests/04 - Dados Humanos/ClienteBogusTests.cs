@@ -1,24 +1,24 @@
-﻿using System;
-using Features.Clientes;
-using Xunit;
+﻿using Xunit;
 
 namespace Features.Tests
 {
-    public class ClienteTests
+    [Collection(nameof(ClienteBogusCollection))]
+    public class ClienteBogusTests
     {
+        private readonly ClienteTestsBogusFixture _clienteTestsFixture;
+
+        public ClienteBogusTests(ClienteTestsBogusFixture clienteTestsFixture)
+        {
+            _clienteTestsFixture = clienteTestsFixture;
+        }
+        
+
         [Fact(DisplayName = "Novo Cliente Válido")]
-        [Trait("Categoria","Cliente Trait Testes")]
+        [Trait("Categoria", "Cliente Bogus Testes")]
         public void Cliente_NovoCliente_DeveEstarValido()
         {
             // Arrange
-            var cliente = new Cliente(
-                Guid.NewGuid(),
-                "Igor",
-                "Andrade",
-                DateTime.Now.AddYears(-24),
-                "igor@andrade.com",
-                true,
-                DateTime.Now);
+            var cliente = _clienteTestsFixture.GerarClienteValido();
 
             // Act
             var result = cliente.EhValido();
@@ -29,18 +29,11 @@ namespace Features.Tests
         }
 
         [Fact(DisplayName = "Novo Cliente Inválido")]
-        [Trait("Categoria", "Cliente Trait Testes")]
+        [Trait("Categoria", "Cliente Bogus Testes")]
         public void Cliente_NovoCliente_DeveEstarInvalido()
         {
             // Arrange
-            var cliente = new Cliente(
-                Guid.NewGuid(),
-                "",
-                "",
-                DateTime.Now,
-                "igor2andrade.com",
-                true,
-                DateTime.Now);
+            var cliente = _clienteTestsFixture.GerarClienteInvalido();
 
             // Act
             var result = cliente.EhValido();

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BctdJ49hwI76sTXSKhxlCGX1qoFZufa9rhRfzdgAgW7aNbIRIwssm124omhWKc7ClWdpzOb+uUZQeOOTxJxpHA==",
+  "dgSpecHash": "U1NQSLWTeAAbTdcqUVb9m4G1l/nlIvhA2ErmcZ/jubEQeN0Xfuu9UPHX18oxY/Q5ILS2rYEFbFqS4WZ7JkYRRQ==",
   "success": true,
   "projectFilePath": "C:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\iguin\\.nuget\\packages\\bogus\\28.0.3\\bogus.28.0.3.nupkg.sha512",
+    "C:\\Users\\iguin\\.nuget\\packages\\bogus\\33.1.1\\bogus.33.1.1.nupkg.sha512",
     "C:\\Users\\iguin\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\iguin\\.nuget\\packages\\fluentassertions\\5.9.0\\fluentassertions.5.9.0.nupkg.sha512",
     "C:\\Users\\iguin\\.nuget\\packages\\fluentvalidation\\8.4.0\\fluentvalidation.8.4.0.nupkg.sha512",

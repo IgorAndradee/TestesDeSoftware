@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.2": {
-      "Bogus/28.0.3": {
+      "Bogus/33.1.1": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Bogus.dll": {}
@@ -1813,23 +1813,20 @@
     }
   },
   "libraries": {
-    "Bogus/28.0.3": {
-      "sha512": "oXijd+pJeIXvCDlVUCL1Qz3sFgBm2jwPmG3U7wLzApJs0TtMxNWrskKLFI7+lYkynOWTOH+USmbzAZHnfQl0Mg==",
+    "Bogus/33.1.1": {
+      "sha512": "k3zLOajCV2iaus75RFqtC3PhHfJHuP2/jTN5Yl1Gixr0jTzrKiufm6oovpn6Nhbjw/zr5CTIzYioUS6HRhEi1w==",
       "type": "package",
-      "path": "bogus/28.0.3",
+      "path": "bogus/33.1.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "bogus.28.0.3.nupkg.sha512",
+        "bogus.33.1.1.nupkg.sha512",
         "bogus.nuspec",
         "lib/net40/Bogus.dll",
-        "lib/net40/Bogus.pdb",
         "lib/net40/Bogus.xml",
         "lib/netstandard1.3/Bogus.dll",
-        "lib/netstandard1.3/Bogus.pdb",
         "lib/netstandard1.3/Bogus.xml",
         "lib/netstandard2.0/Bogus.dll",
-        "lib/netstandard2.0/Bogus.pdb",
         "lib/netstandard2.0/Bogus.xml"
       ]
     },
@@ -6455,7 +6452,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "Bogus >= 28.0.3",
+      "Bogus >= 33.1.1",
       "Features >= 1.0.0",
       "FluentAssertions >= 5.9.0",
       "MOQ >= 4.13.0",
@@ -6512,7 +6509,7 @@
         "dependencies": {
           "Bogus": {
             "target": "Package",
-            "version": "[28.0.3, )"
+            "version": "[33.1.1, )"
           },
           "FluentAssertions": {
             "target": "Package",
