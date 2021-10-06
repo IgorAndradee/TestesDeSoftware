@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0LWowFEf35ccG/7QuN7Mq6qVFCoNnj39ypebn9vTkEBk1cYrYsUrWPXb4e5TQQgqno228JjLA2vOLrUETCRPMg==",
+  "dgSpecHash": "r8TqyOeUPcAhwgMSi9h+iRQ803R8eMl/UUfEJLnqDbt1BYLoOCEZAILg/PGnR/C1PDC1tOq/UANq6MxmzLM3Rg==",
   "success": true,
   "projectFilePath": "C:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj",
   "expectedPackageFiles": [
@@ -25,7 +25,7 @@
     "C:\\Users\\iguin\\.nuget\\packages\\microsoft.win32.primitives\\4.0.1\\microsoft.win32.primitives.4.0.1.nupkg.sha512",
     "C:\\Users\\iguin\\.nuget\\packages\\microsoft.win32.registry\\4.0.0\\microsoft.win32.registry.4.0.0.nupkg.sha512",
     "C:\\Users\\iguin\\.nuget\\packages\\moq\\4.16.1\\moq.4.16.1.nupkg.sha512",
-    "C:\\Users\\iguin\\.nuget\\packages\\moq.automock\\1.2.0.120\\moq.automock.1.2.0.120.nupkg.sha512",
+    "C:\\Users\\iguin\\.nuget\\packages\\moq.automock\\3.0.0\\moq.automock.3.0.0.nupkg.sha512",
     "C:\\Users\\iguin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\iguin\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\iguin\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",

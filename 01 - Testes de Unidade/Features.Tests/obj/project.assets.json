@@ -645,17 +645,16 @@
           "lib/netstandard2.0/Moq.dll": {}
         }
       },
-      "Moq.AutoMock/1.2.0.120": {
+      "Moq.AutoMock/3.0.0": {
         "type": "package",
         "dependencies": {
-          "Moq": "4.8.2",
-          "NETStandard.Library": "1.6.1"
+          "Moq": "4.15.1"
         },
         "compile": {
-          "lib/netstandard1.3/Moq.AutoMock.dll": {}
+          "lib/netstandard2.0/Moq.AutoMock.dll": {}
         },
         "runtime": {
-          "lib/netstandard1.3/Moq.AutoMock.dll": {}
+          "lib/netstandard2.0/Moq.AutoMock.dll": {}
         }
       },
       "NETStandard.Library/2.0.3": {
@@ -2706,17 +2705,19 @@
         "moq.png"
       ]
     },
-    "Moq.AutoMock/1.2.0.120": {
-      "sha512": "Fc7KjDX93+6wez4Z7u0Qrz7ZvZIvKDpxp1HWvQC47I7b1jNM9273REY382mcU+su7ltILa61aNNC9+MbXWYCcg==",
+    "Moq.AutoMock/3.0.0": {
+      "sha512": "VKWe6BtSiBSf7k8/ei5M37EmCL0nSsOLW8OtopqLfFhEepL4MaMSRvPT2oHLlxOTAnOUsroAGrvjXcETJjDWng==",
       "type": "package",
-      "path": "moq.automock/1.2.0.120",
+      "path": "moq.automock/3.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "LICENSE/LICENSE",
-        "lib/net45/Moq.AutoMock.dll",
-        "lib/netstandard1.3/Moq.AutoMock.dll",
-        "moq.automock.1.2.0.120.nupkg.sha512",
+        "LICENSE",
+        "lib/net461/Moq.AutoMock.dll",
+        "lib/net461/Moq.AutoMock.xml",
+        "lib/netstandard2.0/Moq.AutoMock.dll",
+        "lib/netstandard2.0/Moq.AutoMock.xml",
+        "moq.automock.3.0.0.nupkg.sha512",
         "moq.automock.nuspec"
       ]
     },
@@ -6457,7 +6458,7 @@
       "Features >= 1.0.0",
       "FluentAssertions >= 5.9.0",
       "MOQ >= 4.16.1",
-      "MOQ.automock >= 1.2.0.120",
+      "MOQ.automock >= 3.0.0",
       "Microsoft.NET.Test.Sdk >= 16.0.1",
       "Microsoft.NETCore.App >= 2.2.0",
       "xunit >= 2.4.0",
@@ -6522,7 +6523,7 @@
           },
           "MOQ.automock": {
             "target": "Package",
-            "version": "[1.2.0.120, )"
+            "version": "[3.0.0, )"
           },
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
