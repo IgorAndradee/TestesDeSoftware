@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "r8TqyOeUPcAhwgMSi9h+iRQ803R8eMl/UUfEJLnqDbt1BYLoOCEZAILg/PGnR/C1PDC1tOq/UANq6MxmzLM3Rg==",
+  "dgSpecHash": "YiFXr2UiGu+jUc2WZJ8WawUnUfgYYEDhKMiN4Sv2E/IzLtgTNz7JkyAZohE1Rahh651GcBtZJ/djYEJ9u6gOLg==",
   "success": true,
   "projectFilePath": "C:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iguin\\.nuget\\packages\\bogus\\33.1.1\\bogus.33.1.1.nupkg.sha512",
     "C:\\Users\\iguin\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
-    "C:\\Users\\iguin\\.nuget\\packages\\fluentassertions\\5.9.0\\fluentassertions.5.9.0.nupkg.sha512",
+    "C:\\Users\\iguin\\.nuget\\packages\\fluentassertions\\6.1.0\\fluentassertions.6.1.0.nupkg.sha512",
     "C:\\Users\\iguin\\.nuget\\packages\\fluentvalidation\\8.4.0\\fluentvalidation.8.4.0.nupkg.sha512",
     "C:\\Users\\iguin\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
     "C:\\Users\\iguin\\.nuget\\packages\\microsoft.codecoverage\\16.0.1\\microsoft.codecoverage.16.0.1.nupkg.sha512",
