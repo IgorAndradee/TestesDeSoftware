@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AdFzqbVgatjB0J3iYsY8GDUZf9jRy43xQ474NEeVNx/fVhXQRA/4CDBmul5oY1F8QKZn0huWaAZiD+SrQhoX5A==",
+  "dgSpecHash": "Ah9UI9C58WAAThPTivIQN/ma0D2Z+ovik5jPbvizZ/2V15F0wlhl3aHNneJyunDMvgLcfw0X8M+TwBB2VeSf2w==",
   "success": true,
-  "projectFilePath": "C:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj",
+  "projectFilePath": "c:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iguin\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
     "C:\\Users\\iguin\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
