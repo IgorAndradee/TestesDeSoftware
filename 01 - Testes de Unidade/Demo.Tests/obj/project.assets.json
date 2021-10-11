@@ -5926,11 +5926,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Demo.Tests\\Demo.Tests.csproj",
+      "projectUniqueName": "C:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Demo.Tests\\Demo.Tests.csproj",
       "projectName": "Demo.Tests",
-      "projectPath": "c:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Demo.Tests\\Demo.Tests.csproj",
+      "projectPath": "C:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Demo.Tests\\Demo.Tests.csproj",
       "packagesPath": "C:\\Users\\iguin\\.nuget\\packages\\",
-      "outputPath": "c:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Demo.Tests\\obj\\",
+      "outputPath": "C:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Demo.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iguin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5947,8 +5947,8 @@
         "netcoreapp2.2": {
           "targetAlias": "netcoreapp2.2",
           "projectReferences": {
-            "c:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj": {
-              "projectPath": "c:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj"
+            "C:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj": {
+              "projectPath": "C:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj"
             }
           }
         }
