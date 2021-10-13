@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YiFXr2UiGu+jUc2WZJ8WawUnUfgYYEDhKMiN4Sv2E/IzLtgTNz7JkyAZohE1Rahh651GcBtZJ/djYEJ9u6gOLg==",
+  "dgSpecHash": "vj1lSbcy6q6K1+bU2zSKTtv1AbwZLR1bmCD08nnAUDCKDZ43aqb5K9gZaiX9Vx4Nuc09xqLQy/uAX/mQsmlMYQ==",
   "success": true,
-  "projectFilePath": "C:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj",
+  "projectFilePath": "c:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iguin\\.nuget\\packages\\bogus\\33.1.1\\bogus.33.1.1.nupkg.sha512",
     "C:\\Users\\iguin\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
