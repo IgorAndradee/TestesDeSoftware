@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj": {}
+    "C:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj": {}
   },
   "projects": {
-    "c:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj": {
+    "C:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj",
+        "projectUniqueName": "C:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj",
         "projectName": "Features",
-        "projectPath": "c:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj",
+        "projectPath": "C:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj",
         "packagesPath": "C:\\Users\\iguin\\.nuget\\packages\\",
-        "outputPath": "c:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\obj\\",
+        "outputPath": "C:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Features\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iguin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "icrRo8qxs/2/HA5O2MgTmtQDfQX8HPpGoCVkVwz88vPhjFdJQrd4368xzyXYiWNWERHouBcsJti4Rn0ozxaJ9Q==",
+  "dgSpecHash": "NlhXYCzSDYCUu9+/uH3NELJgnOf1wLdkU8q/Yv+V3vBVAUZoCOxq551JPLeL1+Ng4BGYLPf8NBYv7yeHN5LN3Q==",
   "success": true,
-  "projectFilePath": "c:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Demo.Tests\\Demo.Tests.csproj",
+  "projectFilePath": "C:\\DEV\\DesenvolverdorIO\\Arquitetura\\Testes de Software\\Projeto\\TestesDeSoftware\\01 - Testes de Unidade\\Demo.Tests\\Demo.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iguin\\.nuget\\packages\\microsoft.codecoverage\\16.0.1\\microsoft.codecoverage.16.0.1.nupkg.sha512",
     "C:\\Users\\iguin\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

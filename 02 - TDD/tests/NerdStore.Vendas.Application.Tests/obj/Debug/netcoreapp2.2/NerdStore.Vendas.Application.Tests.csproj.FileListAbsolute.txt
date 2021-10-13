@@ -1,0 +1,5 @@
+C:\DEV\DesenvolverdorIO\Arquitetura\Testes de Software\Projeto\TestesDeSoftware\02 - TDD\tests\NerdStore.Vendas.Application.Tests\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.Tests.csproj.AssemblyReference.cache
+C:\DEV\DesenvolverdorIO\Arquitetura\Testes de Software\Projeto\TestesDeSoftware\02 - TDD\tests\NerdStore.Vendas.Application.Tests\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\DesenvolverdorIO\Arquitetura\Testes de Software\Projeto\TestesDeSoftware\02 - TDD\tests\NerdStore.Vendas.Application.Tests\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.Tests.AssemblyInfoInputs.cache
+C:\DEV\DesenvolverdorIO\Arquitetura\Testes de Software\Projeto\TestesDeSoftware\02 - TDD\tests\NerdStore.Vendas.Application.Tests\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.Tests.AssemblyInfo.cs
+C:\DEV\DesenvolverdorIO\Arquitetura\Testes de Software\Projeto\TestesDeSoftware\02 - TDD\tests\NerdStore.Vendas.Application.Tests\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.Tests.csproj.CoreCompileInputs.cache
